@@ -9,3 +9,8 @@ The play command plays the music, user has to input the song name and have to jo
 # Stop.
 
 When user enters the stop command bot will  be stop the song.
+
+# Here is the Screenshot of the bot
+
+<img width="529" alt="Capture" src="https://user-images.githubusercontent.com/88208046/179345441-736689f3-75f9-472c-a3e0-d986941b6aee.PNG">
+
