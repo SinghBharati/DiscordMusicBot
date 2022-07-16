@@ -1,4 +1,4 @@
-# DiscordMusicBot
+# Discord MusicBot
 
 In music bot , we have two commands.
 
